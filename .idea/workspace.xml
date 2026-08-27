@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="76bfc968-cebf-4ae3-86c3-0c103cb71bc7" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day-4.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day-4.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,6 +37,7 @@
     "Python.Day-1.executor": "Run",
     "Python.Day-2.executor": "Run",
     "Python.Day-3.executor": "Run",
+    "Python.Day-4.executor": "Run",
     "Python.main.executor": "Run",
     "Python.project.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
